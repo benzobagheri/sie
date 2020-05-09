@@ -11,12 +11,6 @@ A simple script to collect information about access-session on the switch.
     - method (mab|dot1x)
     - vendor (for mab)
 
-![image-37-1536x360](https://user-images.githubusercontent.com/39305133/81471719-aa931f80-91b8-11ea-9854-107b8824e1a3.png)
-
-Adding MAC address into ISE Group:
-![image-40](https://user-images.githubusercontent.com/39305133/81471736-cdbdcf00-91b8-11ea-9810-1225b0abf82f.png)
-
-
 ## Technologies
 * Python3
 * ISE
